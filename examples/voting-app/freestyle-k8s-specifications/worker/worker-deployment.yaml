@@ -19,5 +19,5 @@ spec:
         name: worker-e2e
         resources:
           limits:
-            memory: 50Mi
+            memory: 500Mi
             cpu: 50m
