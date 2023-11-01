@@ -33,4 +33,4 @@ services:
 resources:
   limits:
     cpu: 50m
-    memory: 50Mi
+    memory: 500Mi
